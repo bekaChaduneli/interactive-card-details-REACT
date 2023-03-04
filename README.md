@@ -15,7 +15,7 @@
 ### Links
 
 - Live Site URL: [Live site](https://interactive-card-details-adecb.web.app/)
-- Solution URL: [Solution URL]([interactive-card-details-REACT](https://github.com/bekaChaduneli/interactive-card-details-REACT))
+- Solution URL: [Solution URL](https://github.com/bekaChaduneli/interactive-card-details-REACT)
 
 ### Built with
 
